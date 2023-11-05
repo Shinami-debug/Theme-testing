@@ -1,6 +1,6 @@
   {
   "name": "Vixia",
-  "description": "A somewhat pink and blue theme, with an anime girl.",
+  "description": "Just Playing Around.",
   "version": "1.6",
   "authors": [
     {
@@ -151,8 +151,8 @@
     "CHAT_GREY": "#13151a"
   },
   "background": {
-    "blur": 0.7,
-    "url": "https://raw.githubusercontent.com/Shinami-debug/Theme-testing/main/IMG_3649.jpeg",
+    "blur": 1,
+    "url": "https://raw.githubusercontent.com/Shinami-debug/Theme-testing/main/IMG_3657.jpeg",
     "alpha": 1.0
   }
 }
